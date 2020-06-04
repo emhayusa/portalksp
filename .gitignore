@@ -1,0 +1,5 @@
+build/*
+dist/*
+portalksp.egg-info/*
+___pycache__/*
+portalksp/__pycache__/*
